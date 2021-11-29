@@ -1,0 +1,5 @@
+export KEY_COUNTRY="FR"
+export KEY_PROVINCE="75"
+export KEY_CITY="Paris"
+export KEY_ORG="openne"
+export KEY_EMAIL="site.laverite@gmail.com"
